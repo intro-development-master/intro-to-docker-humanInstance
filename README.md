@@ -75,6 +75,10 @@ To enter a running container, use the command `docker exec -it <container id> /b
 
 `docker rmi` - Removes an image.
 
+### Cheat Sheet
+
+For a more in-depth look at what commands you can run in Docker, please refer to the [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet).
+
 ## Images
 
 Images can be manually built, or they can be comprised on multiple other images. To search from various images, visit [DockerHub](https://hub.docker.com/).
