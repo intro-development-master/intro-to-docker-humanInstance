@@ -17,3 +17,8 @@ The output of this assignment should be the command needed to pull and run the n
 Output: `<output goes here>`
 `<docker pull hello-world>`
 `<docker run hello-world>`
+`<docker rmi hello-world>`
+`<docker images -a>`
+`<docker system prune>`
+`<docker system prune -a>`
+`<docker images -a>`
