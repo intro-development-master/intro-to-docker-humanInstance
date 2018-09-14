@@ -14,8 +14,7 @@ Steps:
 
 The output of this assignment should be the command needed to pull and run the necessary image.
 
-Output: `<output goes here>`
-`<docker pull hello-world>`
+Output: `<docker pull hello-world>`
 `<docker run hello-world>`
 `<docker rmi hello-world>`
 `<docker images -a>`
